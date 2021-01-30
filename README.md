@@ -1,7 +1,7 @@
-# ForoCineTec
-Foro desarrollado con PHP para la materia de programación web. Cuenta con roles de usuario: administrador y usuario normal, login y registro.
+<h1>ForoCineTec</h1>
+<h5>Foro desarrollado con PHP para la materia de programación web. Cuenta con roles de usuario: administrador y usuario normal, login y registro.</h4>
 
-NOTAS DEL PROYECTO
+<h3>NOTAS DEL PROYECTO</h3>
 Cuando uno se registra, el usuario administrador debe aceptar el registro desde la pestaña "Registros por confirmar", una vez aceptados podrán loguearse los usuarios que se hayan registrado.
 
 Base de datos
