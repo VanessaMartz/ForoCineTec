@@ -118,7 +118,7 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`numcontrol`, `nombres`, `apellidos`, `correo`, `clave`, `estatus`) VALUES
-('root', 'Vanessa', 'Martinez Diaz', 'vane@hotmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 1), 
+('admin', 'Vanessa', 'Martinez Diaz', 'vane@hotmail.com', '827ccb0eea8a706c4c34a16891f84e7b', 1), 
 ('E14021216', 'Gabino de Jesus', 'Gómez Ramos', 'gabinogr@gmail.com', '81dc9bdb52d04dc20036dbd8313ed055', 1),
 ('E16020840', 'Raquel', 'Rodriguez Virgen', 'rarovi@gmail.com', '81dc9bdb52d04dc20036dbd8313ed055', 1),
 ('E15020557', 'Eduardo Antonio', 'Hernandez Cabiedes', 'eddycab@gmail.com', '81dc9bdb52d04dc20036dbd8313ed055', 1),
